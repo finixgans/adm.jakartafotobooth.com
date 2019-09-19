@@ -1,0 +1,2 @@
+# adm.jakartafotobooth.com
+Dns
